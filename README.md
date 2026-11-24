@@ -122,5 +122,5 @@ The following screenshot shows the five tables created for the ShelfWise databas
 
 
 
-!\[ShelfWise Database Structure](database\_structure.png)
+![ShelfWise Database Structure](database_structure.png)
 
