@@ -114,13 +114,19 @@ The database contains:
 
 
 
-### **8. Database Structure**
+## **8. Database Structure**
 
+The following screenshots demonstrate the database structure, sample book records, and SQL query results from the ShelfWise database.
 
-
-The following screenshot shows the five tables created for the ShelfWise database.
-
-
+### **8.1 Database Tables**
 
 ![ShelfWise Database Structure](database_structure.png)
+
+### **8.2 Sample Book Data**
+
+![ShelfWise Sample Book Data](books_sample_data.png)
+
+### **8.3 SQL Query Results**
+
+![ShelfWise SQL Query Results](sql_query_results.png)
 
